@@ -1,0 +1,2 @@
+http://localhost
+printf "%q" "hello\world"

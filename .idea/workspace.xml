@@ -1,7 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad7b1b82-e904-494e-83d0-530075ee8d76" name="Default Changelist" comment="" />
+    <list default="true" id="ad7b1b82-e904-494e-83d0-530075ee8d76" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/content/collections/articles/blog-post-a.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resources/content/collections/articles/blog-post-b.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/GitHub-Mark.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/blog/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/contact/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/cover.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/.netify" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/img.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/web.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/content/collections/articles/test.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/blog.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/blog.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -155,12 +172,14 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/views" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/resources/content/collections/articles" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/resources/content/collections/articles" />
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/resources/views" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -182,7 +201,7 @@
       <option name="presentableId" value="Default" />
       <updated>1609348308054</updated>
       <workItem from="1609348311114" duration="4050000" />
-      <workItem from="1609355064215" duration="3086000" />
+      <workItem from="1609355064215" duration="10291000" />
     </task>
     <servers />
   </component>
