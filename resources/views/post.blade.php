@@ -1,5 +1,7 @@
 @extends('layout')
 
+@section('title', $article->title())
+
 @section('content')
 
 
