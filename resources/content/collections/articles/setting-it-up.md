@@ -1,8 +1,8 @@
 ---
-title: "Test Blog B"
-tag: TEST POST
+title: "Setting it up!"
+tag: SITE DEVELOPMENT
 post_date: "2021-01-01 00:00:00"
 read_time: 1
 ---
 
-This is another test blog post.
+I'm setting up my first data!
