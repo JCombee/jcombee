@@ -96,7 +96,7 @@
         @foreach(\AloiaCms\Models\Article::all()->sortBy(function ($article) {return $article->post_date;})->slice(-3)->reverse() as $article)
             <!--Author-->
                 <div class="flex w-full items-center font-sans p-8">
-                    <img class="w-10 h-10 rounded-full mr-4" src="http://i.pravatar.cc/300" alt="Avatar of Author">
+                    <img class="w-10 h-10 rounded-full mr-4" src="{{ asset($article->thumbnail()) }}" alt="Avatar of Author">
                     <div class="flex-1">
                         <p class="text-base font-bold text-base md:text-xl leading-none">{{ $article->title() }}</p>
                         <p class="text-gray-600 text-xs md:text-base">{{ $article->description() }}</p>
