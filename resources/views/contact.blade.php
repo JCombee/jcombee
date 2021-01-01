@@ -5,7 +5,7 @@
 @section('content')
 
     <!--Lead Card-->
-    <div class="flex h-full bg-white rounded overflow-hidden shadow-lg">
+    <div class="flex h-full bg-white rounded overflow-hidden shadow-lg sm:w-2/3 w-full m-auto">
 
         <form name="contact" netlify class="w-full">
             <div class="shadow overflow-hidden sm:rounded-md">
