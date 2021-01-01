@@ -1,7 +1,7 @@
 ---
-title: "Test Blog B"
+title: "Test Blog C"
 tag: TEST POST
-post_date: "2021-01-03 00:00:00"
+post_date: "2021-01-04 00:00:00"
 read_time: 1
 ---
 
